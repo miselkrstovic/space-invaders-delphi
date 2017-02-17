@@ -1,0 +1,49 @@
+
+Game menu
+Game loop
+  Wave 1
+  Wave 2
+  Wave 3
+  Wave 4
+  Wave n
+
+Aliens move as a mesh of 5x11
+Aliens move back and forth as they decend towards the bottom of the screen
+If aliens reach bottom the alien invasion is successfull and game ends
+Aliens attempts to destroy cannon by firing at it will moving/descending
+At any time only two missile can be fired
+
+Mystery ship occasionally shows up at top of the screen every 30 seconds
+  Points awarder if it is destroyed
+
+Player controls a laser cannon by moving it horizontally across the bootom of the screen
+Player can shoot a fire his laser caannon at descending aliens
+Player shoots an alien and:
+  Defeats it
+  Earns points
+  Aliens movement speeds up
+  Music speeds up
+If all aliens are defeated then start new wave
+At any time only one missile can be fired
+If a user missle hits an alien missle the user missle explodes (only user's)
+
+Defence bunkers are four
+Are mutated by alien missiles
+Are mutated by laser cannon missils
+
+Score is shows at the top of the screen
+Score is shown as a group of 4 zeros if value is less that
+Hi score follows same rules but show in the top middle of the screen
+User starts with three lives, show two icons at bottom and third active
+Remaining lives are displayed at bottom
+
+First row of alien is 10 points
+Second and third 20 points
+Fourth and fifth 30 points
+Mystery ship is 50 points
+Alien descent at each horizontal hit is 8 pixels
+User missle ascension and descent is modifiable
+When an alien is dead animate exploding alien
+When a missle is exploded animate exploding missile
+when mystery ship is exploding animate...
+When missle hits top screen and hits nothing then explode
