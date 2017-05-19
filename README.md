@@ -4,9 +4,7 @@ A Delphi implementation of the classical arcade game [Space Invaders](https://en
 
 ### Screenshots
 
-<img src="screenshots/main.png" width="200px">
-<img src="screenshots/warmup.png" width="200px">
-<img src="screenshots/mothership.png" width="200px">
+<img src="screenshots/main.png" width="200px"> <img src="screenshots/warmup.png" width="200px"> <img src="screenshots/mothership.png" width="200px">
 
 ### Prerequisites
 
@@ -24,7 +22,7 @@ Key | Usage
 
 ## More work
 
-There are still a lot of missing features, and bugs to be squashed. For the curious they can be found in the [TODO.md](TODO.md) file.
+There are still a lot of missing features, and bugs to be squashed. For the curious they can be found in the [TODO](TODO.md) file.
 
 ## License
 
