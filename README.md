@@ -19,6 +19,7 @@ Key | Usage
 <kbd>&larr;</kbd>, <kbd>&rarr;</kbd> | Move the tank to the left or to the right accordingly
 <kbd>Space</kbd> | Launch a missile
 <kbd>Pause</kbd> | Pause the game
+<kbd>Q</kbd> | Quit the game
 
 ## More work
 

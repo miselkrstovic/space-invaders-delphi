@@ -1,7 +1,5 @@
 program SpaceInvaders;
 
-
-
 uses
   Forms,
   Main in 'Main.pas' {frmMain},
