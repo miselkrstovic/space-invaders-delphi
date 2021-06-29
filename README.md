@@ -25,6 +25,9 @@ Key | Usage
 
 There are still a lot of missing features, and bugs to be squashed. For the curious they can be found in the [TODO](TODO.md) file.
 
+## Attribution
+This work, [Space Invaders for Delphi](https://github.com/miselkrstovic/space-invaders-delphi), is a derivative of [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) by [Tomohiro Nishikado](https://en.wikipedia.org/wiki/Tomohiro_Nishikado) from [Taito](https://en.wikipedia.org/wiki/Taito).
+
 ## License
 
 Space Invaders for Delphi is released under the MIT license.
